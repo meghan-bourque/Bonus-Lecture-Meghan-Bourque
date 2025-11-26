@@ -10,3 +10,7 @@ This is my practice notebook
 ```{r}
 plot(mtcars$mpg, mtcars$wt)
 ```
+
+```{r}
+plot(mtcars$disp, mtcars$wt)
+```
